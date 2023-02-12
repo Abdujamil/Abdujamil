@@ -9,7 +9,7 @@ Standardized all output with a new, responsive.
 Developed standard and ad hoc reports in graph format as required.
 
 * 🌍  I'm based in Own projects
-* 🖥️  See my portfolio at [My portfolio](http://portfolio)
+* 🖥️  See my portfolio at [My portfolio](http://port)
 * ✉️  You can contact me at [gafforovabdujamil@gmail.com](mailto:gafforovabdujamil@gmail.com)
 * 🚀  I'm currently working on [BDO](http://bdoinvestment.digiproduct.co.il/)
 * 🧠  I'm learning jQuery, WordPress, React
