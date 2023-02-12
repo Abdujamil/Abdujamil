@@ -1,8 +1,8 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" />
-</div> 
+</div>  -->
 
-<h1 align="center" >Hi I'm Abdujamil👋</h1>
+<h1>Hi I'm Abdujamil👋</h1>
 
 
 ### About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
