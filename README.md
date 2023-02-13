@@ -5,7 +5,7 @@ About me
 --------
 
 Front End Developer Key Qualifications & Responsibilities Implemented websites and landing pages from concept through deployment.  
-Developed standard and ad hoc reports in graph format as required.
+
 
 * 🌍  I'm based in Own projects
 * 🖥️  See my portfolio at [My portfolio](http://port)
