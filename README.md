@@ -40,6 +40,8 @@ Developed standard and ad hoc reports in graph format as required.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Abdujamil"><img src="https://github-readme-stats.vercel.app/api?username=Abdujamil&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Abdujamil's GitHub stats" /></a>
+<a href="http://www.github.com/Abdujamil"><img src="https://github-readme-stats.vercel.app/api?username=Abdujamil&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="Abdujamil's GitHub stats" /></a>
 
-<a href="http://www.github.com/Abdujamil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdujamil&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Abdujamil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdujamil&stroke=ffffff&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Abdujamil" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdujamil&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
