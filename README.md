@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 About me
 --------
 
-Front End Developer Key Qualifications & Responsibilities Implemented websites and landing pages from concept through deployment. 
-Standardized all output with a new, responsive. 
+Front End Developer Key Qualifications & Responsibilities Implemented websites and landing pages from concept through deployment.  
 Developed standard and ad hoc reports in graph format as required.
 
 * 🌍  I'm based in Own projects
