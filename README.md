@@ -8,7 +8,7 @@ Front End Developer Key Qualifications & Responsibilities Implemented websites a
 
 
 * 🌍  I'm based in Own projects
-* 🖥️  See my portfolio at [My portfolio](http://port)
+* 🖥️  See my portfolio at [My portfolio](https://abdujamil.github.io/Portfolioo/#)
 * ✉️  You can contact me at [gafforovabdujamil@gmail.com](mailto:gafforovabdujamil@gmail.com)
 * 🚀  I'm currently working on [BDO](http://bdoinvestment.digiproduct.co.il/)
 * 🧠  I'm learning jQuery, WordPress, React
